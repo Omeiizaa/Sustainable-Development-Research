@@ -5,11 +5,14 @@ This project explores the relationship between SDG 8 (Economic Growth) and SDG 9
 
 ## Objectives
 **Trend Analysis**: Identify and visualize trends in SDG 8 and SDG 9 scores across countries over time.
+
 **Correlation Analysis**: Calculate correlation coefficients between SDG 8 and SDG 9 to understand how infrastructure development aligns with economic growth in each country.
 
 ### Project Structure
 **Data**: Contains SDG 8 and SDG 9 scores from 2000 to 2022 for selected African countries.
+
 **Visualization**: Line plots to show SDG score trends and a heatmap for correlation values between SDG goals by country.
+
 **Analysis**: Includes both trend and correlation analysis, with interpretation based on country-specific performance
 
 ## Key Findings
