@@ -17,6 +17,7 @@ This project explores the relationship between SDG 8 (Economic Growth) and SDG 9
 
 ## Key Findings
 **Trend Analysis**: Reveals each country's progress in economic growth and infrastructure.
+
 **Correlation Analysis**:
 Positive Correlations: Ghana, Kenya, Nigeria, and South Africa show positive correlations, indicating that investments in infrastructure are often aligned with economic growth.
 Negative Correlation: Morocco exhibits a moderate negative correlation, suggesting potential discrepancies between infrastructure growth and economic development.
